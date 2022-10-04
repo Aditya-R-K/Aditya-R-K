@@ -2,7 +2,7 @@
 - 👀 I’m interested in deep learning, artificial intelligence and cloud 
 - 🌱 I’m currently working in TCS in machine learning domain
 - 💞️ I’m looking to collaborate on my open source repository 
-- 📫 How to reach me ...
+- 📫 You can reach me on (Linkedin)[https://www.linkedin.com/in/aditya-kulkarni-24a542248/]
 
 <!---
 Aditya-R-K/Aditya-R-K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
